@@ -1,5 +1,6 @@
 import streamlit as st
 
+print("Salut, c'est Faoussane,🤓")
 nom_esperé = "nina"
 date_naissance_esperee = "2004"
 
@@ -12,7 +13,7 @@ if nom == nom_esperé:
         st.success("Joyeux anniversaire, Nina ! 🎉")
         st.markdown("""
         ### Message personnalisé :
-        Bonjour Nina,
+        Salut Nina😁,
 
         Je voulais profiter de ce jour spécial pour te souhaiter un très joyeux anniversaire. 🎂🎈  
         Ton soutien et ta gentillesse m'ont énormément aidé l'année passée lorsque nous étions en faculté de médecine.  
